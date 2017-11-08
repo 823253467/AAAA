@@ -1,4 +1,4 @@
-package com.bwei.moni;
+package com.bwei.recy;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
