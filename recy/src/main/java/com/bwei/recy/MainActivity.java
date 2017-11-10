@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity implements Iview{
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(MainActivity.this,LinearLayoutManager.VERTICAL,false);
         rv.setLayoutManager(linearLayoutManager);
         myAdatper = new MyAdatper(MainActivity.this,javaBean);
-
         rv.setAdapter(myAdatper);
     }
 

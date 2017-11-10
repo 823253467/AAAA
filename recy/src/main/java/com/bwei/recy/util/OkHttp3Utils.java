@@ -70,8 +70,12 @@ public class OkHttp3Utils {
      */
     public static void doGet(String url,Callback callback){
         OkHttpClient okHttpClient = getOkHttpClient();
+        //okHttpClient.interceptors().add(new LoggingInterceptor());
         Request request = new Request.Builder()
-                .url(url).build();
+                .url(url)
+                //.addHeader("User_Agent","")
+                .build();
+
         okHttpClient.newCall(request).enqueue(callback);
     }
 
@@ -83,6 +87,7 @@ public class OkHttp3Utils {
 
     public static void doPost(String url, Map<String,String> map,Callback callback){
         OkHttpClient okHttpClient = getOkHttpClient();
+
         FormBody.Builder builder = new FormBody.Builder();
         //遍历map集合   设置请求体
         for (String mapKey : map.keySet()){
