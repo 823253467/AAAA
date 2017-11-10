@@ -9,15 +9,59 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aaa" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bugly" />
+            <option value="$PROJECT_DIR$/callback" />
+            <option value="$PROJECT_DIR$/circleproess" />
+            <option value="$PROJECT_DIR$/democircle" />
+            <option value="$PROJECT_DIR$/demomvp" />
+            <option value="$PROJECT_DIR$/jicheng" />
+            <option value="$PROJECT_DIR$/libzxing" />
+            <option value="$PROJECT_DIR$/monizk" />
+            <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvpframework" />
+            <option value="$PROJECT_DIR$/mvplogin" />
+            <option value="$PROJECT_DIR$/mvptest01" />
+            <option value="$PROJECT_DIR$/qqlogindemoa" />
+            <option value="$PROJECT_DIR$/recy" />
+            <option value="$PROJECT_DIR$/recycelerview" />
+            <option value="$PROJECT_DIR$/titleactivitydemo" />
+            <option value="$PROJECT_DIR$/usercenter" />
             <option value="$PROJECT_DIR$/zhanghaoqing20171031" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20171101" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20171102" />
+            <option value="$PROJECT_DIR$/zhoukao" />
+            <option value="$PROJECT_DIR$/zhoukao01" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aaa" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bugly" />
+            <option value="$PROJECT_DIR$/callback" />
+            <option value="$PROJECT_DIR$/circleproess" />
+            <option value="$PROJECT_DIR$/democircle" />
+            <option value="$PROJECT_DIR$/demomvp" />
+            <option value="$PROJECT_DIR$/jicheng" />
+            <option value="$PROJECT_DIR$/libzxing" />
+            <option value="$PROJECT_DIR$/monizk" />
+            <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvpframework" />
+            <option value="$PROJECT_DIR$/mvplogin" />
+            <option value="$PROJECT_DIR$/mvptest01" />
+            <option value="$PROJECT_DIR$/qqlogindemoa" />
+            <option value="$PROJECT_DIR$/recy" />
+            <option value="$PROJECT_DIR$/recycelerview" />
+            <option value="$PROJECT_DIR$/titleactivitydemo" />
+            <option value="$PROJECT_DIR$/usercenter" />
             <option value="$PROJECT_DIR$/zhanghaoqing20171031" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20171101" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20171102" />
+            <option value="$PROJECT_DIR$/zhoukao" />
+            <option value="$PROJECT_DIR$/zhoukao01" />
           </set>
         </option>
       </GradleProjectSettings>

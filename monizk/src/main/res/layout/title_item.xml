@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="#D4DBED"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/btn_left"
+        android:background="#D4DBED"
+        android:textSize="23sp"
+        android:text="＜"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="那些花儿"
+        android:layout_weight="1"
+        android:background="#D4DBED"
+
+        android:layout_width="0dp"
+        android:textSize="23sp"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn_right"
+        android:textSize="23sp"
+        android:layout_width="wrap_content"
+        android:background="#D4DBED"
+        android:text="⑤"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

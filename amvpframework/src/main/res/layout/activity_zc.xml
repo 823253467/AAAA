@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bwie.mvpframework.activity.ZcActivity"
+    android:orientation="vertical"
+    >
+    <com.bwie.mvpframework.mview.MyHeadView
+        android:id="@id/head"
+        app:Tittle_Text="注册界面"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"></com.bwie.mvpframework.mview.MyHeadView>
+    <EditText
+        android:id="@+id/zc_phone"
+        android:hint="输入电话号码"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/zc_pwd"
+        android:hint="请输入密码"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:password="true"
+        />
+    <Button
+        android:id="@+id/bt_zhuce"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="立即注册"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        />
+
+
+</LinearLayout>

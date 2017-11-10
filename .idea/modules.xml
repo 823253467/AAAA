@@ -3,8 +3,30 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AAAA.iml" filepath="$PROJECT_DIR$/AAAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaa/aaa.iml" filepath="$PROJECT_DIR$/aaa/aaa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bugly/bugly.iml" filepath="$PROJECT_DIR$/bugly/bugly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleproess/circleproess.iml" filepath="$PROJECT_DIR$/circleproess/circleproess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/democircle/democircle.iml" filepath="$PROJECT_DIR$/democircle/democircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomvp/demomvp.iml" filepath="$PROJECT_DIR$/demomvp/demomvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jicheng/jicheng.iml" filepath="$PROJECT_DIR$/jicheng/jicheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monizk/monizk.iml" filepath="$PROJECT_DIR$/monizk/monizk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpframework/mvpframework.iml" filepath="$PROJECT_DIR$/mvpframework/mvpframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvplogin/mvplogin.iml" filepath="$PROJECT_DIR$/mvplogin/mvplogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvptest01/mvptest01.iml" filepath="$PROJECT_DIR$/mvptest01/mvptest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqlogindemoa/qqlogindemoa.iml" filepath="$PROJECT_DIR$/qqlogindemoa/qqlogindemoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recy/recy.iml" filepath="$PROJECT_DIR$/recy/recy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycelerview/recycelerview.iml" filepath="$PROJECT_DIR$/recycelerview/recycelerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titleactivitydemo/titleactivitydemo.iml" filepath="$PROJECT_DIR$/titleactivitydemo/titleactivitydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usercenter/usercenter.iml" filepath="$PROJECT_DIR$/usercenter/usercenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhanghaoqing20171031/zhanghaoqing20171031.iml" filepath="$PROJECT_DIR$/zhanghaoqing20171031/zhanghaoqing20171031.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhanghaoqing20171101/zhanghaoqing20171101.iml" filepath="$PROJECT_DIR$/zhanghaoqing20171101/zhanghaoqing20171101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhanghaoqing20171102/zhanghaoqing20171102.iml" filepath="$PROJECT_DIR$/zhanghaoqing20171102/zhanghaoqing20171102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoukao/zhoukao.iml" filepath="$PROJECT_DIR$/zhoukao/zhoukao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoukao01/zhoukao01.iml" filepath="$PROJECT_DIR$/zhoukao01/zhoukao01.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,1 @@
-include ':app', ':zhanghaoqing20171031'
+include ':app', ':zhanghaoqing20171031', ':zhanghaoqing20171101', ':zhanghaoqing20171102', ':democircle', ':demomvp', ':demomvp', ':titleactivitydemo', ':aaa', ':libzxing', ':circleproess', ':callback', ':monizk', ':mvpframework', ':bugly', ':mvplogin', ':jicheng', ':usercenter', ':recycelerview', ':recy', ':mvp', ':mvptest01', ':qqlogindemoa', ':zhoukao', ':zhoukao01'
